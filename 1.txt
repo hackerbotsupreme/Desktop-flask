@@ -1,0 +1,6 @@
+setting up 
+install python ( latest one )
+install virtualenv 
+create our project directory
+insstall required packages 
+
