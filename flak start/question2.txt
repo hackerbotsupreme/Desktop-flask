@@ -1,0 +1,90 @@
+Flask Vs Django: Which Python Framework to Choose?
+source
+https://www.mygreatlearning.com/blog/flask-vs-django/
+
+
+Companies that are using Flask: MIT, Uber, Reddit, Netflix, Mozilla, Airbnb, Lyft, etc.
+
+Companies that are using Django: Instagram, Pinterest, Bitbucket, Disqus, Spotify, National Geographic, etc.
+
+Features of Flask
+
+    Lightweight: Flask is a lightweight framework because it is independent of external libraries and it gives a quick start for web development having complex applications.
+    Compatible: Flask is compatible with the latest technologies such as machine learning, agile development, cloud technologies, etc.
+    Independent: Flask allows full control to the developers for creating web applications. A developer can do the experiment with the libraries and architecture of the framework.
+    Integrated Unit Testing: Flask offers an integrated unit testing feature that helps in faster debugging, robust development, and independence to do experiments.
+    Flexible and Scalable: Flask supports WSGI templates that help in flexibility and scalability in the web development process.
+    Secure Cookies: Secure cookie is an attribute of an HTTP request that enables the security of channels and ensures no unauthorized person has access to the text. Flask supports the feature of secure cookies. 
+
+Features of Django
+
+    Fast: Django is an extremely fast framework, the working process from concept to completion is insanely fast.
+    Versatile: Django is a versatile framework that helps developers to work on different platforms like WordPress, LinkedIn, Youtube, CNN, The New York Times, etc.
+    Portable: It is a python based framework hence it is portable.
+    Secure: This framework guarantees security with powerful authentication systems and protocols to avoid unauthorized access, cyber attack, clickjacking, etc.
+    Adaptable: It is adaptable to different formats such as HTML, JSON, XML, and many more.
+    Scalable: This framework can be easily scalable and easy to maintain.
+
+Have a look at the convolutional neural network course to further your learning of the concept.
+Flask vs Django
+Parameter	Flask	Django
+About Framework	Flask is a lightweight framework with minimalist features.	Django is a full-stack web framework that includes a batteries-included approach
+Project Layout	Flask is suitable for single-page application	Django is suitable for multiple-page application
+Working Style	Flask working style is diversified	Django’s working style is Monolithic
+Debugger	Flask provides an in-built debugger that offers virtual debugging	Django does not provide any virtual debugging
+HTML Page	Dynamic HTML pages are not supported by the Flask	Dynamic HTML pages are supported by the Django
+Built-in Templates	Flask built-in template engine Jinja2 is based on the Django template engine	Django offers built-in templates that are ready to use for the developers
+Lines of Code	For a simple functionality, Flask requires fewer lines of code 	For the similar functionality, Django requires 2 times more lines of codes than Flask
+Flexibility	Flask offers flexibility to the developers as it is a micro-based framework with extensible libraries	Django offers in-built features so it is less flexible and developers cannot make changes to the modules 
+Database Support	Flask doesn’t offer a database management system and it uses SQLAlchemy for database requirements	Django offers popular relational database management systems such as Oracle, MySQL, etc
+Admin Tool	Flask does not offer any ready-to-use administrator tool for the developers 	Django offers ready to use admin framework that can be customized as per the need
+Dynamic Behavior	In Flask, a developer can change the application features latterly as per the need, as flask provides flexibility to expand the application quickly	Django is not suitable for a project whose requirement changes dynamically
+Structure	Flask has a random web frame structure	Django has a conventional structure
+Security	Flask offers in-built security features for common threads like CSRF, SQL Injection XSS, etc 	Django is more secure than other frameworks because it has a small codebase so the possibility of unauthorized access is less. However, we can use third-party libraries and extensions to make it more secure.
+Usage	Flask is used by the companies that need to do an experiment with their modules and architecture such as Reddit, MIT, Netflix, Lyft, etc	Django is used for high-end performance and it is used by Udemy, Instagram, Coursera, etc
+Pros of Flask
+
+    It is a lightweight framework that offers hassle-free development
+    Provide flexibility to the developer to experiment with their modules or architecture
+    It is suitable for small projects
+    Offers a built-in development server and fast debugger
+    Easily scalable for the applications
+    Support for secure cookies
+    Uses Ninja2 Template engine
+    It has integrated support for unit testing
+    APIs are coherent and neat
+    Provide strong WSGI support
+
+Check out this free course on Model Deployment with Heroku and Flask.
+Pros of Django
+
+    It offers MVC (Micro View Controller) Architecture
+    It supports dynamic HTML pages
+    Preferred for big projects
+    Highly secure framework
+    Pre-defined templates for developers
+    Has integrated unit testing for web applications
+    It is portable
+    It supports multi-language and multi-character
+    Have support for frontend tools such as jquery, Ajax, Pyjamas, etc
+    Supports relational databases
+
+Cons of Flask
+
+    Not suitable for big applications and projects
+    It does not offer an in-built admin site for maintaining records for insertion, deletion, and modification
+    Lack of Database and ORM
+    Complex maintenance for large applications
+    Libraries must be manually installed
+    Limited community support and compare to Django
+    The Minimum Viable Product (MVP) development process is slow
+
+Cons of Django
+
+    Monolithic style makes things difficult and fixed
+    Codebase size is much higher as compared to the flask
+    Templates failed silently
+    Developers need broad knowledge to work with Django
+    Only allow handling a single request at a time
+    The large size of the code
+    Auto reload restarts the entire server
